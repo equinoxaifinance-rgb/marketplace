@@ -19,10 +19,10 @@
       "proof-fetch",
       "--transport",
       "http",
-      "https://proof-fetch-agent-api.neoaethel.workers.dev/mcp"
+      "https://prooffetch.tryneverclosed.com/mcp"
     ]
   },
-  "homepage": "https://proof-fetch-agent-api.neoaethel.workers.dev",
+  "homepage": "https://prooffetch.tryneverclosed.com",
   "repo": "https://github.com/equinoxaifinance-rgb/proof-fetch-docs",
   "icon": "./icon.png"
 }
