@@ -19,10 +19,10 @@
       "fluxproof",
       "--transport",
       "http",
-      "https://fluxproof.neoaethel.workers.dev/mcp"
+      "https://fluxproof.tryneverclosed.com/mcp"
     ]
   },
-  "homepage": "https://fluxproof.neoaethel.workers.dev",
+  "homepage": "https://fluxproof.tryneverclosed.com",
   "repo": "https://github.com/equinoxaifinance-rgb/fluxproof-agent-card",
   "icon": "./icon.png"
 }
